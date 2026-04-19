@@ -63,6 +63,8 @@
 
 ### 部署与自动化 (Deployment & Automation)
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [Watchtower](https://github.com/containrrr/watchtower): 自动检测并更新正在运行的 Docker 容器的基础镜像。
 * [Diun](https://github.com/crazy-max/diun): 当 Docker 注册表上的镜像更新时，接收通知（支持 Telegram, Slack, Discord 等）。
 * [CapRover](https://caprover.com/): 极其简单的应用/数据库部署平台，相当于你自己的私有 Heroku。
