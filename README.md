@@ -63,7 +63,7 @@
 
 ### 部署与自动化 (Deployment & Automation)
 
-* [Watchtower](https://github.com/containrrr/watchtower): 自动检测并更新正在运行的 Docker 容器的基础镜像。
+* [Watchtower](https://github.com/openserbia/watchtower): 自动检测并更新正在运行的 Docker 容器的基础镜像（原 containrrr 仓库已归档，此为活跃维护的 fork）。
 * [Diun](https://github.com/crazy-max/diun): 当 Docker 注册表上的镜像更新时，接收通知（支持 Telegram, Slack, Discord 等）。
 * [CapRover](https://caprover.com/): 极其简单的应用/数据库部署平台，相当于你自己的私有 Heroku。
 * [Coolify](https://coolify.io/): 一个开源且可自托管的 Heroku / Netlify / Vercel 替代方案。
