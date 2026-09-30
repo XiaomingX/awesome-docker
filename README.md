@@ -67,6 +67,7 @@
 * [Diun](https://github.com/crazy-max/diun): 当 Docker 注册表上的镜像更新时，接收通知（支持 Telegram, Slack, Discord 等）。
 * [CapRover](https://caprover.com/): 极其简单的应用/数据库部署平台，相当于你自己的私有 Heroku。
 * [Coolify](https://coolify.io/): 一个开源且可自托管的 Heroku / Netlify / Vercel 替代方案。
+* [Peon](https://peon.sh/): 开源可自托管的 Docker PaaS，带项目级 RBAC、审计日志与 MCP — Coolify/Dokploy 替代方案。
 
 ### 安全 (Security)
 
